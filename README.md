@@ -3,9 +3,9 @@
 [![GitHub followers](https://img.shields.io/github/followers/mehedihnb?style=social)](https://github.com/mehedihnb)
 [![Telegram](https://img.shields.io/badge/Telegram-@imehedih-blue)](https://t.me/imehedih)
 [![Email](https://img.shields.io/badge/Email-mehediuxd%40gmail.com-red)](mailto:mehediuxd@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-mehedi.dev-green)](https://mehedi.dev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-mehedi-blue)](https://linkedin.com/in/mehedi)
-[![Twitter](https://img.shields.io/badge/Twitter-@mehedidev-blue)](https://twitter.com/mehedidev)
+[![Portfolio](https://img.shields.io/badge/Portfolio-mehedi.dev-green)](https://mehedihassan.co)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-mehedi-blue)](https://linkedin.com/in/mehedihassan-me)
+[![Twitter](https://img.shields.io/badge/Twitter-@mehedidev-blue)](https://x.com/mehediihn)
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Product+Engineer;AI+Developer;Full+Stack+Developer;Open+Source+Contributor" alt="Typing SVG" />
@@ -121,7 +121,7 @@ Other        1 hr           █░░░░░░░░░░░░░░   4.40
 </p>
 
 <p align="center">
-  <a href="https://www.buymeacoffee.com/mehedi">
+  <a href="https://buymeacoffee.com/mehedihsn">
     <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
   </a>
 </p>
