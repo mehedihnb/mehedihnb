@@ -26,7 +26,7 @@ Passionate about crafting digital products that solve real-world problems, combi
 
 ## 🎨 Design Experience
 
-- 5+ years in UI/UX design for web and mobile platforms
+- 7+ years in UI/UX design for web and mobile platforms
 - Expert in wireframing, prototyping, and design systems
 - Led design for SaaS products, marketplaces, and AI platforms
 - Specialized in user research, interaction design, and product thinking
